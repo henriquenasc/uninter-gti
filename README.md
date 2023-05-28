@@ -1,6 +1,6 @@
 # Curso de Data Science 
 
-Repositório criado para servir como caderno de anotações do curso de Data Science da [Satander Coders](https://app.becas-santander.com/pt-BR/program/bolsas-santander-tecnologia-santander-coders-2023) em parceria com a [Ada Tech](https://ada.tech/).
+Repositório criado para servir como caderno de anotações da Faculdade de Gestão da Tecnologia da Informação.
 
 Os arquivos estão em formato [Markdown](https://www.markdownguide.org/basic-syntax/) para facilitar a documentação.
 
