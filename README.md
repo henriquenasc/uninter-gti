@@ -1,4 +1,4 @@
-# Curso de Data Science 
+# Atividade Extensionista
 
 Repositório criado para servir como caderno de anotações da Faculdade de Gestão da Tecnologia da Informação.
 
